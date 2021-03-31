@@ -1,0 +1,11 @@
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\bin\Debug\netcoreapp2.1\pruebaPunto2.deps.json
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\bin\Debug\netcoreapp2.1\pruebaPunto2.runtimeconfig.json
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\bin\Debug\netcoreapp2.1\pruebaPunto2.runtimeconfig.dev.json
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\bin\Debug\netcoreapp2.1\pruebaPunto2.dll
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\bin\Debug\netcoreapp2.1\pruebaPunto2.pdb
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\obj\Debug\netcoreapp2.1\pruebaPunto2.csprojAssemblyReference.cache
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\obj\Debug\netcoreapp2.1\pruebaPunto2.csproj.CoreCompileInputs.cache
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\obj\Debug\netcoreapp2.1\pruebaPunto2.AssemblyInfoInputs.cache
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\obj\Debug\netcoreapp2.1\pruebaPunto2.AssemblyInfo.cs
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\obj\Debug\netcoreapp2.1\pruebaPunto2.dll
+c:\users\jonh cely\source\repos\pruebaPunto2\pruebaPunto2\obj\Debug\netcoreapp2.1\pruebaPunto2.pdb
